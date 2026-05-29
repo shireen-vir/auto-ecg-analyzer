@@ -11,3 +11,6 @@ This tool automates electrocardiogram analysis for rapid diagnosis and research 
 * Support for various ECG file formats
 ## Usage
 Clone the repository, install required dependencies, and run the analyzer using the provided Python scripts.
+
+## Changelog
+- Added utility functions
